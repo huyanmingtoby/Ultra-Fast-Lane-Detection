@@ -1,6 +1,6 @@
 # DATA
 dataset='CULane'
-data_root = None
+data_root = '/media/untoby/tobyWS/Codes'
 
 # TRAIN
 epoch = 50
